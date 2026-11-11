@@ -1,0 +1,6 @@
+{
+  "name": "SecureAuth – Secure Login System",
+  "description": "Production-grade authentication platform featuring Argon2/bcrypt password hashing, SQLite database, session security, rate limiting, and optional TOTP Two-Factor Authentication (2FA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
